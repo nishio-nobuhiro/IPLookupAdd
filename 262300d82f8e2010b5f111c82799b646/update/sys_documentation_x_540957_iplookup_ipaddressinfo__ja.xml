@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="IPAddressInfo" language="ja" table="x_540957_iplookup_ipaddressinfo">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>IPAddressInfo</label>
+            <language>ja</language>
+            <name>x_540957_iplookup_ipaddressinfo</name>
+            <plural>IPAddressInfos</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-28 02:44:12</sys_created_on>
+            <sys_id>99304c642f8a6010b5f111c82799b66c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>IPAddressInfo</sys_name>
+            <sys_package display_value="IPLookup" source="x_540957_iplookup">262300d82f8e2010b5f111c82799b646</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPLookup">262300d82f8e2010b5f111c82799b646</sys_scope>
+            <sys_update_name>sys_documentation_x_540957_iplookup_ipaddressinfo__ja</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-28 02:44:12</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
